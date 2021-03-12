@@ -14,12 +14,11 @@
 프로젝트
 ------------
 포트폴리오 입니다.
-   
 # 안드로이드 네이티브 - MeetAgain 앱 개발
 SNS앱 입니다 인스타그램을 모티브로 제작한 1인 개발 앱입니다.
-Android: Kotlin
-서버 :firebase
-깃허브 소스 : https://github.com/leeSJ96/snsproject
+Android: Kotlin   
+서버 :firebase   
+깃허브 소스 : https://github.com/leeSJ96/snsproject   
 유튜브 영상 소개 : https://youtu.be/0pU1JdHvN4c   
    
 # 안드로이드 네이티브 - MaeumDiary 앱 개발
