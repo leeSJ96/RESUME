@@ -3,9 +3,9 @@
 
 소개
 ------------
-
-   ![image](https://ifh.cc/g/GoUYSf.jpg)   
- 
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+   ![image]<https://ifh.cc/g/GoUYSf.jpg width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>   
+  >
 * 이름: 이승주
 * 깃허브 : [깃허브링크](https://github.com/leeSJ96 "github link")
 * 이메일 : tmdwn3214@naver.com   
