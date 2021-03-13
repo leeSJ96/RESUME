@@ -32,7 +32,7 @@ Android: Kotlin
 유튜브 영상 소개 : https://youtu.be/6NbrK0NJNDk   
    
 # 안드로이드 네이티브 - PhotoS 앱 개발
- unsplash api를 활용 해 사진검색기능을 할수있는 1인 개발 앱입니다   
+ unsplash api를 활용 해 사진검색기능을 할수있는 1인 rxjava.retrofit공부용 개발 앱입니다   
 Android: Kotlin,rxjava,retrofit   
    
 깃허브 소스 : https://github.com/leeSJ96/PhotoS   
