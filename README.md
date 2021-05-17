@@ -43,6 +43,8 @@ Android: MVVM패턴,코루틴,GPU라이브러리,koin,viewModel
    
 깃허브 소스 : https://github.com/leeSJ96/PhotoFilter    
 유튜브 영상 소개 : https://youtu.be/x-kThMRb0Ws   
+
+
 자기소개
 ----------- 
 제가 제작한 앱을 유저들이 편리하게 사용했으면 하는 바램으로 안드로이드를 배웠습니다    
