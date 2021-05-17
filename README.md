@@ -25,7 +25,7 @@ Android: Kotlin
 유튜브 영상 소개 : https://youtu.be/0pU1JdHvN4c   
    
 # 안드로이드 네이티브 - MaeumDiary 앱 개발
-다이어리앱 입니다 안드로이드 개발자 분 과 협업해서 제작한 앱입니다.   
+다이어리앱 입니다 안드로이드 개발자 분 과 스터디로 협업해서 제작한 앱입니다.   
 Android: Kotlin   
 서버 :firebase   
 깃허브 소스 : https://github.com/leeSJ96/MaeumDiary/tree/subBranch   
@@ -38,8 +38,8 @@ Android: Kotlin,rxjava,retrofit
 깃허브 소스 : https://github.com/leeSJ96/PhotoS   
 
 # 안드로이드 네이티브 - 포토필터 앱 개발
- unsplash api를 활용 해 사진검색기능을 할수있는 1인 rxjava.retrofit공부용 개발 앱입니다   
-Android: Kotlin,rxjava,retrofit   
+ gpu 라이브러리를 활용 해 사진공유기능을 할수있는 앱입니다   
+Android: MVVM패턴,코루틴,GPU라이브러리,koin,viewModel
    
 깃허브 소스 : https://github.com/leeSJ96/PhotoFilter 
 유튜브 영상 소개 : https://youtu.be/x-kThMRb0Ws
